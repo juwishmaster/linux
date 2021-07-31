@@ -1,0 +1,12 @@
+{
+    "name": "linux/linux",
+    "description": "The core of the tux framework",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Willy Micieli",
+            "email": "juwishmaster@juwishmaster.org"
+        }
+    ],
+    "require": {}
+}
